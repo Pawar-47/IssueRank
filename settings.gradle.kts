@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "IssueRank"
-include(":app")
+rootProject.name = "ILs"
+include(":ILs")
